@@ -11,7 +11,7 @@ export default function App() {
       <div
         className="colorBox"
         style={{
-          backgroundColor: `${color}`,
+          backgroundColor: color,
           height: 350,
           width: 550,
           display: 'flex',
