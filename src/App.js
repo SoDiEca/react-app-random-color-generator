@@ -9,7 +9,7 @@ export default function App() {
     <div
       className="App"
       style={{
-        backgroundColor: 'lightcyan',
+        backgroundColor: 'lavender',
         minHeight: '100%',
         minWidth: '100%',
         width: '100%',
